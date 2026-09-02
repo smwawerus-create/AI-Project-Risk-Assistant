@@ -1,0 +1,9 @@
+Risk_ID,Risk_Category,Risk_Description,Probability,Impact,Status
+R001,Schedule,Critical project milestone may be delayed,4,5,Open
+R002,Resource,Key technical resource has limited availability,4,4,Open
+R003,Scope,Requirements continue to change during implementation,5,4,Open
+R004,Technical,System integration may experience delays,3,5,Open
+R005,Stakeholder,Delayed stakeholder decisions may affect delivery,3,4,Open
+R006,Budget,Project costs may exceed the approved budget,2,5,Open
+R007,Dependency,External supplier deliverables may be delayed,4,4,Open
+R008,Training,Users may not be adequately prepared for go-live,3,4,Open
